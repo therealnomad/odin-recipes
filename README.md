@@ -1,2 +1,2 @@
-Odin Preject
+Odin Project
 Recipes Module
